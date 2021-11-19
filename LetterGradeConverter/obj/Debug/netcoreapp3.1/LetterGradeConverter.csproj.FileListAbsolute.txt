@@ -1,0 +1,14 @@
+C:\Users\Aieos_\Documents\code\LetterGradeConverter\LetterGradeConverter\bin\Debug\netcoreapp3.1\LetterGradeConverter.exe
+C:\Users\Aieos_\Documents\code\LetterGradeConverter\LetterGradeConverter\bin\Debug\netcoreapp3.1\LetterGradeConverter.deps.json
+C:\Users\Aieos_\Documents\code\LetterGradeConverter\LetterGradeConverter\bin\Debug\netcoreapp3.1\LetterGradeConverter.runtimeconfig.json
+C:\Users\Aieos_\Documents\code\LetterGradeConverter\LetterGradeConverter\bin\Debug\netcoreapp3.1\LetterGradeConverter.runtimeconfig.dev.json
+C:\Users\Aieos_\Documents\code\LetterGradeConverter\LetterGradeConverter\bin\Debug\netcoreapp3.1\LetterGradeConverter.dll
+C:\Users\Aieos_\Documents\code\LetterGradeConverter\LetterGradeConverter\bin\Debug\netcoreapp3.1\LetterGradeConverter.pdb
+C:\Users\Aieos_\Documents\code\LetterGradeConverter\LetterGradeConverter\obj\Debug\netcoreapp3.1\LetterGradeConverter.csproj.AssemblyReference.cache
+C:\Users\Aieos_\Documents\code\LetterGradeConverter\LetterGradeConverter\obj\Debug\netcoreapp3.1\LetterGradeConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aieos_\Documents\code\LetterGradeConverter\LetterGradeConverter\obj\Debug\netcoreapp3.1\LetterGradeConverter.AssemblyInfoInputs.cache
+C:\Users\Aieos_\Documents\code\LetterGradeConverter\LetterGradeConverter\obj\Debug\netcoreapp3.1\LetterGradeConverter.AssemblyInfo.cs
+C:\Users\Aieos_\Documents\code\LetterGradeConverter\LetterGradeConverter\obj\Debug\netcoreapp3.1\LetterGradeConverter.csproj.CoreCompileInputs.cache
+C:\Users\Aieos_\Documents\code\LetterGradeConverter\LetterGradeConverter\obj\Debug\netcoreapp3.1\LetterGradeConverter.dll
+C:\Users\Aieos_\Documents\code\LetterGradeConverter\LetterGradeConverter\obj\Debug\netcoreapp3.1\LetterGradeConverter.pdb
+C:\Users\Aieos_\Documents\code\LetterGradeConverter\LetterGradeConverter\obj\Debug\netcoreapp3.1\LetterGradeConverter.genruntimeconfig.cache
